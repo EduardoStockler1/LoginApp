@@ -1,0 +1,25 @@
+#Dependências do Node.js
+node_modules/
+package-lock.json
+
+#Banco de Dados SQLite
+*.sqlite
+*.sqlite3
+*.db
+
+#Arquivo de Configuração de Variáveis de Ambiente
+.env
+
+#Logs e Arquivos Temporários
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+logs/
+debug.log
+.DS_Store
+
+#Configuração do Editor e Sistema Operacional (opcional)
+.vscode/
+.idea/
+*.swp
